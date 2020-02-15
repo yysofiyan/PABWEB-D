@@ -15,9 +15,9 @@ Setelah praktikum ini dilakukan Anda diharapkan dapat:
 Berikut langkah-langkahnya secara singkat:
 
 1. Fork it!
-2. Buatlah *branch* fitur baru: `git checkout -b my-new-feature`
+2. Buatlah *branch* fitur baru: `git checkout -b NIM_ANDA`
 3. *Commit* perubahannya: `git commit -am 'Add some features'`
-4. *Push* ke branch di *remote*: `git push origin my-new-feature`
+4. *Push* ke branch di *remote*: `git push origin NIM_ANDA`
 5. Buat *pull request*
 
 1. Fork proyek ini. 
