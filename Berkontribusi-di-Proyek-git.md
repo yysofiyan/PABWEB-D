@@ -71,7 +71,7 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
         git fetch upstream
         git merge upstream/master
 
-8. Dengan proses diatas, setidaknya kita telah bisa memastikan bahwa tidak ada konflik dengan repo pusat. Sekarang kita kembali ke branch lokal development kita `sample-project`.
+8. Dengan proses diatas, setidaknya kita telah bisa memastikan bahwa tidak ada konflik dengan repo pusat. Sekarang kita kembali ke branch lokal development kita `NIM_ANDA`.
 
         git checkout NIM_ANDA
 
