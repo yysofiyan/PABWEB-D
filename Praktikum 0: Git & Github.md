@@ -20,3 +20,7 @@ Setelah praktikum ini dilakukan Anda diharapkan dapat:
 
 2. Atur *path* pada terminal Anda saat ini ke *folder* tempat Anda akan menyimpan pekerjaan. Gunakan perintah `cd` untuk navigasi ke *folder* pilihan Anda.
 3. Buat folder *baru* untuk menyimpan file baru yang terkait dengan praktikum pada dokumen ini. Coba berikan penamaan `git-exercise` pada *folder* Anda dan atur *path* pada *terminal* Anda saat ini ke folder yang baru saja dibuat.
+4. Di dalam *folder* baru, ketikkan perintah ```git init``` untuk membuat `Git repository` kosong.
+5. Kemudian coba ketikkan perintah `git status` untuk melihat status dari `Git repository (Git repo)` pada saat perintah dijalankan.
+
+> Sampai pada tahap ini Anda sudah berhasil membuat `Git repository lokal pertama Anda`. Sebelum melanjutkan praktikum, ada beberapa konfigurasi yang perlu dilakukan pada `Git repo lokal Anda.`
