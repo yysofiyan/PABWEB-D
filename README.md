@@ -29,6 +29,8 @@
 ## Referensi
 
 🔗 [git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
+🔗 [git-scm.com/doc](https://git-scm.com/doc)
+🔗 [https://betterexplained.com/articles/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 
 
 
@@ -49,7 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
      <!-- Baris 2 Max 7 Akun -->
      <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-     
+
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
