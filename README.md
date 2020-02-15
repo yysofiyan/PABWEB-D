@@ -1,5 +1,6 @@
 # Repositori Praktikum Pengembangan Aplikasi Berbasis Web
-### (TI-IV-A)
+### (TI-IV-D)
+#### Group : D , Hari & Jam: Senin - 15:30 s.d 18:50, ruang: R10
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 0. **Fork** Repositori ini.
