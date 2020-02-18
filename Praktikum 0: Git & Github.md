@@ -153,8 +153,8 @@ git config --global user.email "email"
 **Contoh:**
 
  ```markdown
-git config user.name "user_anda"
-git config user.email "A3.xxxx@mhs.stmik-sumedang.ac.id"
+git config --global user.name "user_anda"
+git config --global user.email "A3.xxxx@mhs.stmik-sumedang.ac.id"
 ```
 Kemudian periksa konfigurasinya dengan perintah:
 
@@ -205,10 +205,98 @@ Sebelum mulai menggunakan `Git`, ada beberapa perintah dasar yang harus diketahu
 - [x] `Git merge`: untuk menggabungkan branch yang aktif dengan branch yang dipilih. 
 - [x] `Git clone`: untuk membuat Salinan repository
 
-* Langkah selanjutnya, buat sebuah folder `repository project`. Pada contoh ini, saya menggunakan nama folder `“coba”`seperti pada gambar di bawah ini.
+1. Langkah selanjutnya, buat sebuah folder `repository project`. Pada contoh ini, saya menggunakan nama folder dengan menggunakan nomor NIDN ( Nomor Induk Dosen Nasional)`“0416078903”`. Silahkan anda menggunakan `Nomor NIM anda masing-masing`.
 
+![#1](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;7.51.09&#32;PM.png)
 
+###### *memilih folder project*
 
+Kemudian drag folder tersebut ke `Terminal/command Prompt` atau open with git bash
+
+![#2](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;7.55.40&#32;PM.png)
+
+Langkah selanjutnya adalah sebagai berikut:
+
+ketik perintah 
+
+```git
+1. git init
+```
+
+![#3](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;7.58.18&#32;PM.png)
+
+`Git init` akan menghasilkan `folder .git` sebagai tanda jika repository local sudah dibuat.` Folder .git ini bersifat hidden`
+
+```git
+2. git status
+```
+![#4](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.03.21&#32;PM.png)
+
+Pada Gambar di atas, menunjukan belum ada file yang ditambahkan. Selanjutnya, tambahkan file `*.txt` pada folder `“0416078903” (silahkan di sesuaikan dengan folder kalian)`. 
+
+![#5](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.10.10&#32;PM.png)
+
+Lalu lakukan 
+
+```git
+3. git status
+```
+kembali, hasilnya akan seperti pada gambar di bawah ini
+
+![#6](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.13.34&#32;PM.png)
+
+Hasil dari `git status` terlihat jika ada `file baru` yang belum ditambahkan ke dalam `repository local`. File tersebut dengan nama `hello.rtf`. seperti yang sudah dijelaskan sebelumnya, git status akan menampilkan file baru atau file yang dimodifikasi dengan `warna merah`. File tersebut harus ditambahkan ke dalam `repository local` dengan menggunakan perintah `git add` seperti pada langkah selanjutnya.
+
+```git
+4.git add *
+```
+
+Tanda `*` pada git add adalah untuk menambahkan semua file ke dalam `repository`. Bisa saja hanya menuliskan nama file nya saja, seperti `git add hello.rtf`. setelah melakukan `git add`, lakukan pengecekan dengan melakukan perintah `git status`. Hasil dari `git status`, nama file yang berhasil ditambahkan akan berwarna hijau seperti pada gambar di bawah ini.
+
+![#7](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.28.07&#32;PM.png)
+
+```git
+5. git commit
+```
+![#8](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.33.14&#32;PM.png)
+
+###### Sederhananya, `commit` berarti perubahan yang baru saja Anda lakukan di `lokal repository`. Perubahan dapat terdiri dari `menambahkan, mengubah, atau menghapus satu atau lebih file`
+
+Setelah Anda selesai menulis `pesan commit`, konfigurasikan `author `yang berisi `nama dan email` dengan menggunakan perintah seperti di bawah ini:
+
+```git
+➜  0416078903 (master) ✔ git config --global user.name "yysofiyan"
+➜  0416078903 (master) ✔ git config --global user.email "yanyan@stmik-sumedang.ac.id"
+➜  0416078903 (master) ✔ 
+```
+
+```git
+6. git log
+   ```
+![#9](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.52.47&#32;PM.png)
+
+`Git log` berfungsi untuk menampilkan `history dari commit yang telah dilakukan`. Semua commit yang telah dilakukan akan ditampilkan seperti pada Gambar di atas. Jika terdapat perubahan kembali pada folder “0416078903” seperti menambahkan file baru atau melakukan modifikasi pada file `“hello.rtf”`, maka untuk menambahkan pada repository local lakukan perintah di mulai dari git status hingga git commit.
+
+<!---------------------------------------------------------------->
+Anda baru saja membuat `Git repository lokal` dan mulai melacak perubahan pada file dalam repository. Jika Anda akan membagi pekerjaan Anda dengan tutor Anda atau teman lain, Anda harus memiliki repository yang dapat diakses melalui Internet. Untuk melakukannya, Anda perlu menempatkan salinan `lokal repository` Anda dalam `layanan hosting Git online` bernama `Github`.
+
+1. Buka Github (https://github.com) menggunakan web browser favorit Anda.
+2. Gunakan akun yang sudah anda buat.
+3. Buat `repository` baru bernama `NIM_ANDA` dan masuk ke halaman repository. Pastikan Anda mengatur visibilitas ke `Publik`. Kemudian `Create Repository`
+
+![#10](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;9.20.33&#32;PM.png)
+
+4. Temukan bagian bernama `URL`. Perhatikan bahwa ada dua jenis `URL` : `HTTPS` dan `SSH`. Catat URL untuk `HTTPS`. Lihat gambar berikut :
+
+![#11](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;9.28.37&#32;PM.png)
+
+5. Perbarui `Git repository` `lokal Anda` sehingga `commit` Anda nanti dapat disimpan di Github juga. Gunakan perintah `git remote add` dan gunakan URL kloning sebagai argumen untuk perintah : `git remote add origin <CLONEURL>`
+
+**Contoh:**
+
+```git
+git remote add origin https://github.com/yysofiyan/0416078903.git
+```
 
 # Referensi 🔥
 
