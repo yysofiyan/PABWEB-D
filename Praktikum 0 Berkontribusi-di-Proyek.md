@@ -86,21 +86,4 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 11. Setelah di push, kita akan melakukan pull request dan membandingkan perubahan yang telah anda lakukan terhadap repo pusat. Anda juga bisa menyisipkan pesan untuk memberitahukan developer pemilik repo pusat tentang apa yang anda lakukan. Setelah yakin terhadap perubahan yang telah anda lakukan, silahkan pilih create pull request dan menunggu tanggapan dari pemilik repo pusat. Lebih lengkapnya bisa anda lihat di tag screenshot.
 
 ----
-## Screenshot
 
-Ganti branch master ke branch yang anda buat (NIM_ANDA) dan pilih pull request / new pull request.
-
-![#](#)
-
-Setelah itu anda akan masuk pada konfirmasi pull request, disini anda bisa membandingkan code antar branch dan menyisipkan komentar.
-
-![#](#)
-
-Setelah melakukan pull request maka akan menuju tampilan request yang telah anda lakukan terhadap project tersebut.
-
-![#](#)
-
-----
-## ....
-
-* []() - 
