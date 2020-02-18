@@ -330,4 +330,5 @@ git push -u origin master
 4. [github.guides](https://guides.github.com/)
 5. [Command cheatsheet](https://training-github.com/kit/downloads/github-gitcheat-sheet.pdf)
 6. [Interactive git tutorial](https://try.github.io/levels/1/challenges/1)
-7. [Visual/interactive cheatsheet](http://ndpsoftware.com/git-cheatsheet.html )
+7. [Visual/interactive cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+8. [phoenixnap.com/](https://phoenixnap.com/kb/)
