@@ -26,13 +26,6 @@ pada Fedora
 
 yum install git
 ```
-Setelah itu coba periksa versi yang terinstall dengan perintah:
-
-`git version`
-
-Pada laptop saya, versi yang terinstall adalah versi `2.24.1`
-
-![git version](Snapshoot/git-version.png)
 
 2. #### Cara Install Git di Windows
 
@@ -120,6 +113,14 @@ Untuk launch `Git GUI`, buka menu Start Windows , ketik `git gui` dan tekan Ente
 
 ![#16](https://phoenixnap.com/kb/wp-content/uploads/2019/12/start-gui-git-windows.png)
 
+Setelah itu coba periksa versi yang terinstall dengan perintah:
+
+`git version`
+
+Pada laptop saya, versi yang terinstall adalah versi `2.24.1`
+
+![git version](Snapshoot/git-version.png)
+
 ----
 
  ## Connecting to a Remote Repository
@@ -142,24 +143,54 @@ untuk mengetahui apakah git sudah benar ter-install atau tidak, bisa melakukan p
 
 ![cek-git](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;6.27.16&#32;PM.png)
 
-Ada beberapa konfigurasi awal yang harus dupersiapakan sebelum mulai menggunakan Git, seperti `nama dan email`. Silahkan lakukan konfigurasi dengan perintah berikut ini.
+Ada beberapa konfigurasi awal yang harus dupersiapkan sebelum mulai menggunakan Git, seperti `nama dan email`. Silahkan lakukan konfigurasi dengan perintah berikut ini.
 
-```diff
-- git config --global user.name "yysofiyan"
-- git config --global user.email yanyan@stmik-sumedang.ac.id
+```markdown
+git config --global user.name "username"
+git config --global user.email "email"
 ```
 
+**Contoh:**
+
+ ```markdown
+git config user.name "user_anda"
+git config user.email "A3.xxxx@mhs.stmik-sumedang.ac.id"
+```
 Kemudian periksa konfigurasinya dengan perintah:
 
+```markdown
+git config --list
+```
+Apabila berhasil tampil seperti code berikut ini, berarti konfigurasi anda berhasil.
 
+```bash
+credential.helper=osxkeychain
+user.name=yysofiyan
+user.email=example@outlook.com
+user.namel=yysofiyan
+core.excludesfile=/Users/yysofiyan/.gitignore_global
+~
+~
+~
+(END)
+```
+Konfigurasi `core.editor core.excludesfile` bersifat opsional. Sedangkan `name dan email wajib`.
 
+- [x] **Membuat Akun Github**
 
+- [x] Akses Github melalui web browser dan masukkan URL : [github.com](https://github.com/)
+- [x] Pilih menu Sign Up, isikan data username, email address dan password anda. Lalu Verify account anda. Password, Username, dan Email tidak boleh sama dengan pengguna lain (Saya sarankan Pakai Email Kampus)
+- [x] Buat Format username : dengan `NIM_ANDA`
+- [x] Selanjutnya pilih Pricing Plan -> Pilih yang Free -> Pilih Continue. 
+- [x] Lalu isi kuisioner tentang diri anda. Jika sudah selesai, pilih Submit atau bisa klik skip this test.
+- [x] Selamat, anda sudah resmi menjadi pengguna Github. 
 
+```diff
+- NOTE 👁‍🗨
+```
+###### Dalam penggunaan Git ada dua cara, pertama dengan menggunakan` Terminal/Command Prompt` dan kedua menggunakan `Git Desktop`. Pada praktikum ini, setiap contoh penggunaan git dengan menggunakan `Terminal/Command Prompt`.
 
-
-Dalam penggunaan Git ada dua cara, pertama dengan menggunakan` Terminal/Command Prompt` dan kedua menggunakan `Git Desktop`. Pada praktikum ini, setiap contoh penggunaan git dengan menggunakan `Terminal/Command Prompt`.
-
-- [x] Working Locally
+- [x] **Working Locally**
 
 Sebelum mulai menggunakan `Git`, ada beberapa perintah dasar yang harus diketahui seperti di bawah ini:
 
@@ -179,39 +210,12 @@ Sebelum mulai menggunakan `Git`, ada beberapa perintah dasar yang harus diketahu
 
 
 
+# Referensi 🔥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> Sampai pada tahap ini Anda sudah berhasil membuat `Git repository lokal pertama Anda`. Sebelum melanjutkan praktikum, ada beberapa konfigurasi yang perlu dilakukan pada `Git repo lokal Anda.`
-
-> Anda memerlukan nama pengguna dan kata sandi GitHub untuk langkah selanjutnya.
-> silahkan register [github.com](github.com)
-
-1. Atur *username* dan *email* yang akan terhubung dengan pekerjaan Anda pada *Git repository*.
-
-```markdown
- git config user.name "<NAME>" 
- git config user.email "<EMAIL>"
- ```
- **Contoh:**
- 
- ```markdown
-git config user.name "Nama_Anda"
-git config user.email "A3.xxxx@mhs.stmik-sumedang.ac.id"
-```
-7. Jika koneksi Anda melalui *proxy*, misalkan Anda menggunakan PC pada Lab STMIK SUMEDANG Anda harus mengatur HTTP *proxy* pada konfigurasi Git:
-
-
-
+1. [hackernoon.com](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
+2. [coderomeos.org](https://www.coderomeos.org/how-to-use-github-simple-github-tutorial-for-beginners)
+3. [git-scm.com](https://git-scm.com/)
+4. [github.guides](https://guides.github.com/)
+5. [Command cheatsheet](https://training-github.com/kit/downloads/github-gitcheat-sheet.pdf)
+6. [Interactive git tutorial](https://try.github.io/levels/1/challenges/1)
+7. [Visual/interactive cheatsheet](http://ndpsoftware.com/git-cheatsheet.html )
