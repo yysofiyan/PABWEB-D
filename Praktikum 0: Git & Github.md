@@ -122,31 +122,84 @@ Untuk launch `Git GUI`, buka menu Start Windows , ketik `git gui` dan tekan Ente
 
 ----
 
-1. Mulailah dengan `command-prompt` atau `shell` favorit Anda. Jika menggunakan Windows, jalankan `Git Bash` atau `cmd` (hanya berlaku jika Anda telah menambahkan path Git yang dapat dieksekusi ke dalam PATH *environment Variable*). 
-2. Jika menggunakan OS berbasis Unix (Linux atau Mac OS), dapat menggunakan `shell` yang disediakan di OS, misalkan `bash,ZSH`
+ ## Connecting to a Remote Repository
+
+----
+
+* Mulailah dengan `Terminal/command-prompt` atau `shell` favorit Anda. Jika menggunakan Windows, jalankan `Git Bash` atau `cmd` (hanya berlaku jika Anda telah menambahkan path Git yang dapat dieksekusi ke dalam PATH *environment Variable*). 
+  
+* Jika menggunakan OS berbasis Unix (Linux atau Mac OS), dapat menggunakan `shell` yang disediakan di OS, misalkan bash, [zsh](https://ohmyz.sh)
 
 ```diff
 - NOTE 👁‍🗨
 ```
 
-###### Meskipun dimungkinkan untuk menggunakan aplikasi berbasis GUI, misalkan built-in Git GUI, GitKraken, atau SourceTree, saya sangat menyarankan untuk menggunakan perintah Git dari shell.
+###### Meskipun dimungkinkan untuk menggunakan aplikasi berbasis GUI, misalkan built-in Git GUI, GitKraken, VsCode,SourceTree atau aplikasi lainya, saya sangat menyarankan untuk menggunakan perintah `Git dari shell`.
 
 ###### Shell adalah lingkungan denominator umum terendah yang tersedia untuk Anda selama pengembangan Web, terutama ketika harus menerapkan aplikasi Web ke remote server. Akan berguna juga untuk mengetahui perintah-perintah shell atau Git, ketika kita tidak dapat memiliki lingkungan grafis. Plus, mengeksekusi perintah dengan mengetik jauh lebih cepat daripada point-and-click pada GUI.
 
+untuk mengetahui apakah git sudah benar ter-install atau tidak, bisa melakukan pengecekan melalui `terminal/cmd` dengan mengetikan kata `git`. Jika hasil keluaran seperti pada Gambar berikut, maka instalasi berhasil.
+
+![cek-git](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;6.27.16&#32;PM.png)
+
+Ada beberapa konfigurasi awal yang harus dupersiapakan sebelum mulai menggunakan Git, seperti `nama dan email`. Silahkan lakukan konfigurasi dengan perintah berikut ini.
+
+```diff
+- git config --global user.name "yysofiyan"
+- git config --global user.email yanyan@stmik-sumedang.ac.id
+```
+
+Kemudian periksa konfigurasinya dengan perintah:
 
 
 
 
 
 
-1. Atur *path* pada terminal Anda saat ini ke *folder* tempat Anda akan menyimpan pekerjaan. Gunakan perintah `cd` untuk navigasi ke *folder* pilihan Anda.
-2. Buat folder *baru* untuk menyimpan file baru yang terkait dengan praktikum pada dokumen ini. Coba berikan penamaan `git-exercise` pada *folder* Anda dan atur *path* pada *terminal* Anda saat ini ke folder yang baru saja dibuat.
-3. Di dalam *folder* baru, ketikkan perintah ```git init``` untuk membuat `Git repository` kosong.
-4. Kemudian coba ketikkan perintah `git status` untuk melihat status dari `Git repository (Git repo)` pada saat perintah dijalankan.
+
+Dalam penggunaan Git ada dua cara, pertama dengan menggunakan` Terminal/Command Prompt` dan kedua menggunakan `Git Desktop`. Pada praktikum ini, setiap contoh penggunaan git dengan menggunakan `Terminal/Command Prompt`.
+
+- [x] Working Locally
+
+Sebelum mulai menggunakan `Git`, ada beberapa perintah dasar yang harus diketahui seperti di bawah ini:
+
+- [x] `Git init`: Untuk membuat repository pada folder lokal
+- [x] `Git status`: Untuk mengetahui status dari repository Lokal, apakah ada file yang ditambahkan/dihilangkan dan dimodifikasi.
+- [x] `Git diff`: untuk mengetahui list code yang dilakukan perubahan.
+- [x] `Git add`: untuk menambahkan file ke repository local
+- [x] `Git commit`: untuk menyimpan perubahan yang dilakukan
+- [x] `Git push`: untuk mengirimkan perubahan dari repository local setelah melakukan commit ke remote repository
+- [x] `Git branch`: untuk melihat seluruh branch yang ada pada repository
+- [x] `Git checkout`: untuk menukar branch yang aktif dengan branch yang lainnya
+- [x] `Git merge`: untuk menggabungkan branch yang aktif dengan branch yang dipilih. 
+- [x] `Git clone`: untuk membuat Salinan repository
+
+* Langkah selanjutnya, buat sebuah folder `repository project`. Pada contoh ini, saya menggunakan nama folder `“coba”`seperti pada gambar di bawah ini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > Sampai pada tahap ini Anda sudah berhasil membuat `Git repository lokal pertama Anda`. Sebelum melanjutkan praktikum, ada beberapa konfigurasi yang perlu dilakukan pada `Git repo lokal Anda.`
 
-6. Atur *username* dan *email* yang akan terhubung dengan pekerjaan Anda pada *Git repository*.
+> Anda memerlukan nama pengguna dan kata sandi GitHub untuk langkah selanjutnya.
+> silahkan register [github.com](github.com)
+
+1. Atur *username* dan *email* yang akan terhubung dengan pekerjaan Anda pada *Git repository*.
 
 ```markdown
  git config user.name "<NAME>" 
