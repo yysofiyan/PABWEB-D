@@ -82,7 +82,7 @@ Silahkan buka website resminya Git (git-scm.com). Kemudian unduh Git sesuai deng
 
 ![#9](https://phoenixnap.com/kb/wp-content/uploads/2019/12/use-openssl-library-server-verification-git-windows.png)
 
-* Pilihan berikutnya mengubah akhir baris. Dianjurkan agar Anda memilih pilihan **default.** Ini terkait dengan cara data diformat dan mengubah opsi ini dapat menyebabkan masalah. **Klik Next **.
+* Pilihan berikutnya mengubah akhir baris. Dianjurkan agar Anda memilih pilihan **default.** Ini terkait dengan cara data diformat dan mengubah opsi ini dapat menyebabkan masalah. **Klik Next**.
 
 
 
