@@ -128,7 +128,7 @@ Untuk launch `Git GUI`, buka menu Start Windows , ketik `git gui` dan tekan Ente
 🔥 **NOTE**:
 ##### <span style="font-family:Knack; font-size:0.7em;"> Meskipun dimungkinkan untuk menggunakan aplikasi berbasis GUI, misalkan built-in Git GUI, GitKraken, atau SourceTree, saya sangat menyarankan untuk menggunakan perintah Git dari shell</span>.
 
-#### <span style="font-family:Knack; font-size:0.7em;"> Shell adalah lingkungan denominator umum terendah yang tersedia untuk Anda selama pengembangan Web, terutama ketika harus menerapkan aplikasi Web ke remote server. Akan berguna juga untuk mengetahui perintah-perintah shell atau Git, ketika kita tidak dapat memiliki lingkungan grafis. Plus, mengeksekusi perintah dengan mengetik jauh lebih cepat daripada point-and-click pada GUI.</span>
+#### <p style='text-align: justify;'> <span style="font-family:Knack; font-size:0.6em;"> Shell adalah lingkungan denominator umum terendah yang tersedia untuk Anda selama pengembangan Web, terutama ketika harus menerapkan aplikasi Web ke remote server. Akan berguna juga untuk mengetahui perintah-perintah shell atau Git, ketika kita tidak dapat memiliki lingkungan grafis. Plus, mengeksekusi perintah dengan mengetik jauh lebih cepat daripada point-and-click pada GUI.</span></p>
 
 
 
