@@ -260,7 +260,7 @@ Tanda `*` pada git add adalah untuk menambahkan semua file ke dalam `repository`
 ```
 ![#8](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;8.33.14&#32;PM.png)
 
-###### Sederhananya, `commit` berarti perubahan yang baru saja Anda lakukan di `lokal repository`. Perubahan dapat terdiri dari `menambahkan, mengubah, atau menghapus satu atau lebih file`
+##### Sederhananya, `commit` berarti perubahan yang baru saja Anda lakukan di `lokal repository`. Perubahan dapat terdiri dari `menambahkan, mengubah, atau menghapus satu atau lebih file`
 
 Setelah Anda selesai menulis `pesan commit`, konfigurasikan `author `yang berisi `nama dan email` dengan menggunakan perintah seperti di bawah ini:
 
@@ -297,6 +297,30 @@ Anda baru saja membuat `Git repository lokal` dan mulai melacak perubahan pada f
 ```git
 git remote add origin https://github.com/yysofiyan/0416078903.git
 ```
+![#12](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;9.40.32&#32;PM.png)
+
+##### `git remote add origin` memberitahu repositori lokal untuk menambahkan `path bernama origin` yang menunjuk ke URL yang diberikan. Dengan mengkonfigurasi path ini di lokal repository, Anda akan dapat menyimpan commit Anda ke online repository juga menggunakan perintah `git push`.
+
+6. Untuk menyimpan *commit* Anda ke dalam *online repository* Anda di Github, jalankan perintah `git push`. Anda harus menentukan *remote* path dan *remote branch* yang akan diunggah (atau di-**push**).
+
+```git
+git push -u <REMOTE_NAME> <DEFAULT_BRANCH>
+```
+
+**Contoh:**
+
+```git
+git push -u origin master
+```
+
+![#13](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;9.48.42&#32;PM.png)
+
+##### `git push` memberitahu Git untuk mendorong *commit* di cabang **master** lokal Anda ke *repository* yang ditunjuk oleh remote **origin**. opsi `-u` memastikan panggilan **git push** berikutnya akan dikirim ke cabang **master** dari **path origin**.
+
+7. Periksa halaman **Github repository** Anda. Anda akan melihat bahwa file-file Anda telah disimpan dan dapat diakses di Github.
+
+![#14](Snapshoot/Screen&#32;Shot&#32;2020-02-18&#32;at&#32;9.58.50&#32;PM.png)
+
 
 # Referensi 🔥
 
