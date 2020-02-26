@@ -30,7 +30,7 @@
 
 1. [git-scm](https://git-scm.com/book/id/v2/Memulai-Dasar-dasar-Git)
 2. [git-scm.com/doc](https://git-scm.com/doc)
-3. [https://betterexplained.com/articles/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
+3. [betterexplained.com/articles/](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/)
 4. [conecting github with ssh](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 
