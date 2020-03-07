@@ -96,6 +96,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://allcontributors.org) specification.
 Contributions of any kind are welcome!
 
+----
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/PABWEB-D.svg" alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/stars/yysofiyan/PABWEB-D.svg" alt="Stars"></a>
