@@ -78,7 +78,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
-
   <tr>
     <!-- Baris Ke 5 Mak 7 Akun-->
 
