@@ -70,17 +70,34 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris 2 Max 7 Akun -->
-
+<td align="center"><a href="#"><img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
+      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<td align="center"><a href="#"><img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
+      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<td align="center"><a href="#"><img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
+      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<td align="center"><a href="#"><img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
+      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<td align="center"><a href="#"><img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
+      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
   <tr>
     <!-- Baris Ke 5 Mak 7 Akun-->
-
   </tr>
   <tr>
 
