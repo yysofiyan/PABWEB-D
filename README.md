@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
           src="https://avatars3.githubusercontent.com/u/61414949?s=400&u=575cf6487a57cbdec39cbb5698cac56493aacb0d&v=4"
-          width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldis</b></sub></a><br /><a href="#"
+          width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldi</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61415528?s=460&v=4" width="100px;"
@@ -89,10 +89,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-<<<<<<< HEAD
-=======
-    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61414949?s=400&u=575cf6487a57cbdec39cbb5698cac56493aacb0d&v=4" width="100px;" alt=""/><br /><sub><b>Muhamad Iqbal Rivaldi</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
->>>>>>> 64f9d7d5b2880d305e18c3abba866be28d8b28ce
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
