@@ -1,6 +1,6 @@
 <?php
 require_once "config/database.php";
-$list_jk = array('Laki-Laki', 'Perempuan');
+$list_jk = array('Laki-laki', 'Perempuan');
 $list_agama = array('Islam', 'Kristen Protestan', 'Kristen Katolik', 'Hindu', 'Buddha');
 
 function bulan($bln){
