@@ -10,7 +10,7 @@
 1. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum_n**_.
    > _Contoh **Praktikum_1** untuk Tugas pada Praktikum Pertemuan Pertama_
 1. Seluruh berkas **Tugas Praktikum** pertemuan ke-_**n**_ dismpan pada direktori _**Praktikum_n**_.
-   > - Berkas tugas berupa `struktur file selama mengerjakan praktikum`.
+   > - Berkas tugas berupa `kode (source code) selama mengerjakan praktikum`.
    > - Format penamaan berkas : `nim_nama`
 1. **Push** berkas tugas anda ke repositori hasil _fork_ pada _branch_ **NIM** anda.
 1. Buat **Pull Request** untuk **Merge** _branch_ **NIM** dengan _branch_ **master** pada repositori ini.
