@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
           src="https://avatars2.githubusercontent.com/u/24666410?s=460&u=e224b3664f6fbb58adf2f4cc46238c298d6dde14&v=4"
-          width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
+          width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid 🥇</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <!-- Baris Pertama -->
