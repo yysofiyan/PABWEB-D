@@ -10,7 +10,11 @@
 1. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum_n**_.
    > _Contoh **Praktikum_1** untuk Tugas pada Praktikum Pertemuan Pertama_
 1. Seluruh berkas **Tugas Praktikum** pertemuan ke-_**n**_ dismpan pada direktori _**Praktikum_n**_.
+<<<<<<< HEAD
    > - Berkas tugas berupa `struktur file selama mengerjakan praktikum`.
+=======
+   > - Berkas tugas berupa `kode (source code) selama mengerjakan praktikum`.
+>>>>>>> upstream/master
    > - Format penamaan berkas : `nim_nama`
 1. **Push** berkas tugas anda ke repositori hasil _fork_ pada _branch_ **NIM** anda.
 1. Buat **Pull Request** untuk **Merge** _branch_ **NIM** dengan _branch_ **master** pada repositori ini.
@@ -61,9 +65,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a
     href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
+<<<<<<< HEAD
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
           width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+=======
+          src="https://avatars2.githubusercontent.com/u/24666410?s=460&u=e224b3664f6fbb58adf2f4cc46238c298d6dde14&v=4"
+          width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid 🥇</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
+        href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+>>>>>>> upstream/master
   </tr>
   <!-- Baris Pertama -->
   <!-- isi profile akun github anda di bawah baris ke 2 -->
