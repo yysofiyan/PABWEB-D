@@ -40,7 +40,7 @@
             <footer class="pt-4 my-md-4 pt-md-3 border-top">
                 <div class="row">
                     <div class="col-12 col-md center text-muted">
-                        &copy; 2020 - <a class="text-info" href="https://stmik-sumedang.ac.id/">STMIK Sumedang </a> & made with <i class="fa fa-heart"></i> by muhamad iqbal rivaldi
+                        &copy; 2020 - <a class="text-warning" href="https://stmik-sumedang.ac.id/">STMIK Sumedang </a> & made with <i class="fa fa-heart"></i> by muhamad iqbal rivaldi
                     </div>
                 </div>
             </footer>
@@ -50,7 +50,6 @@
         <script type="text/javascript" src="assets/plugins/bootstrap-4.1.3/dist/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="assets/plugins/fontawesome-free-5.4.2-web/js/all.min.js"></script>
         <script type="text/javascript" src="assets/plugins/datepicker/js/bootstrap-datepicker.min.js"></script>
-        <script type="text/javascript" src="assets/plugins/sweetalert/sweetalert.min.js"></script>
 
         <script type="text/javascript">
             $(document).ready(function() {
