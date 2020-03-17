@@ -40,7 +40,7 @@
             <footer class="pt-4 my-md-4 pt-md-3 border-top">
                 <div class="row">
                     <div class="col-12 col-md center text-muted">
-                        &copy; 2020 - <a class="text-warning" href="https://stmik-sumedang.ac.id/">STMIK Sumedang </a> & made with <i class="fa fa-heart"></i> by muhamad iqbal rivaldi
+                        &copy; 2020 - <a class="text-info" href="https://stmik-sumedang.ac.id/">STMIK Sumedang </a> & made with <i class="fa fa-heart"></i> by muhamad iqbal rivaldi
                     </div>
                 </div>
             </footer>
