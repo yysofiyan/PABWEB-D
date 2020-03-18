@@ -7,7 +7,7 @@ date_default_timezone_set("ASIA/JAKARTA");
 // mendeklarasikan parameter koneksi database
 $server      = "localhost";
 $username    = "root";
-$password    = "root"
+$password    = "root";
 $database    = "db_sekolah";
 
 // mengkoneksikan database
