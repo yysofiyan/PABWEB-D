@@ -181,8 +181,7 @@
 		// ================================================
 		function konfirmasiHapus(nis) {
             swal({
-                title: "Apakah anda yakin ?",
-                text: "Anda tidak dapat mengembalikannya lagi jika sudah terhapus",
+                title: "Apakah anda yakin ingin menghapus siswa ini ?",
                 type: "warning",
                 showCancelButton: true,
                 cancelButtonText: "Tidak",
@@ -191,7 +190,7 @@
             }, function() {
                 swal({
                         title: "Berhasil!",
-                        text: "File yang anda pilih telah berhasil terhapus",
+                        text: "Siswa yang dipilih berhasil terhapus",
                         type: "success"
                     },
                     function() {
