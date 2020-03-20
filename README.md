@@ -36,7 +36,7 @@
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](<https://github.com/yysofiyan/PABWEB-D/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf>) 📥
 4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
-5. [Modul Praktikum Laravel](#) 
+5. [Modul Praktikum Laravel](#)
 
 ## Referensi
 
@@ -55,57 +55,40 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+        alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
-          src="https://avatars3.githubusercontent.com/u/61414949?s=400&u=575cf6487a57cbdec39cbb5698cac56493aacb0d&v=4"
-          width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldi 🥇</b></sub></a><br /><a href="#"
+        src="https://avatars3.githubusercontent.com/u/61414949?s=400&u=575cf6487a57cbdec39cbb5698cac56493aacb0d&v=4"
+        width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldi 🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61415528?s=460&v=4" width="100px;"
-          alt="" /><br /><sub><b>Bagas Pardana Ilham 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#"
+        alt="" /><br /><sub><b>Bagas Pardana Ilham 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
-      src="https://avatars1.githubusercontent.com/u/61410277?s=460&v=4"
-      width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a
-    href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img
-          src="https://avatars2.githubusercontent.com/u/24666410?s=460&u=e224b3664f6fbb58adf2f4cc46238c298d6dde14&v=4"
-          width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid 🥇</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
+        src="https://avatars2.githubusercontent.com/u/24666410?s=460&u=e224b3664f6fbb58adf2f4cc46238c298d6dde14&v=4"
+        width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid 🥇</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
-      src="https://avatars2.githubusercontent.com/u/61412017?s=460&u=8beea5cd2af713c594244a4958b981e4745e9fb4&v=4"
-      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F</b></sub></a><br /><a href="https://github.com/marsyad/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        src="https://avatars1.githubusercontent.com/u/61410277?s=460&v=4"
+        width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <!-- Baris Pertama -->
   <!-- isi profile akun github anda di bawah baris ke 2 -->
   </tr>
   <tr>
-    <!-- Baris 2 Max 7 Akun -->
-<td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-<td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-<td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-<td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-      width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-    href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <!-- Baris 2 Max 4 Akun -->
+   <td align="center"><a href="#"><img
+      src="https://avatars2.githubusercontent.com/u/61412017?s=460&u=8beea5cd2af713c594244a4958b981e4745e9fb4&v=4"
+      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F</b></sub></a><br /><a href="https://github.com/marsyad/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
-    <!-- Baris ke 3 Max 7 Akun-->
+    <!-- Baris ke 3 Max 4 Akun-->
   </tr>
   <tr>
-    <!-- Baris Ke 4 Mak 7 Akun-->
+    <!-- Baris Ke 4 Mak 4 Akun-->
   <tr>
-    <!-- Baris Ke 5 Mak 7 Akun-->
+    <!-- Baris Ke 5 Mak 4 Akun-->
   </tr>
   <tr>
 
@@ -120,7 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 This project follows the [all-contributors](https://allcontributors.org) specification.
 Contributions of any kind are welcome!
 
-----
+---
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/forks/yysofiyan/PABWEB-D.svg" alt="Fork"></a>
