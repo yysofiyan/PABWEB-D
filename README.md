@@ -74,8 +74,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           width="100px;" alt="" /><br /><sub><b>Khalid Insan Tauhid 🥇</b></sub></a><br /><a href="https://github.com/khalidinsan/PABWEB-D" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+      src="https://avatars2.githubusercontent.com/u/61412017?s=460&u=8beea5cd2af713c594244a4958b981e4745e9fb4&v=4"
+      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F</b></sub></a><br /><a href="https://github.com/marsyad/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <!-- Baris Pertama -->
   <!-- isi profile akun github anda di bawah baris ke 2 -->
