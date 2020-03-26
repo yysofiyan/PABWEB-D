@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris ke 3 Max 7 Akun-->
       <td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410277?s=460&v=4"
-        width="100px;" alt="" /><br /><sub><b>Hilal Hamdi</b></sub></a><br /><a href="https://github.com/Hilal-Hamdi" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        width="100px;" alt="" /><br /><sub><b>Hilal Hamdi</b></sub></a><br /><a href="https://github.com/Hilal-Hamdi" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Hilal-Hamdi" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
