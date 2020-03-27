@@ -85,14 +85,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
          <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61410686?s=400&u=610f83518ec2ec4100c348496bdbe951721125da&v=4"
         width="100px;" alt="" /><br /><sub><b>Hilal Hamdi 🥇</b></sub></a><br /><a href="https://github.com/Hilal-Hamdi" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Hilal-Hamdi" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+<td align="center"><a href="#"><img
+        src="https://avatars1.githubusercontent.com/u/61410101?s=460&u=a69613356637b79d5c15a36ba38c58986773825a&v=4"
+        width="100px;" alt="" /><br /><sub><b>Adinda Noer Khoeruddin </b></sub></a><br /><a href="https://github.com/AdindaNoerKhoeruddin" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/AdindaNoerKhoeruddin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
   </tr>
-  <tr>
-    <!-- Baris ke 3 Max 4 Akun-->
-  </tr>
-  <tr>
+
     <!-- Baris Ke 4 Mak 4 Akun-->
   <tr>
     <!-- Baris Ke 5 Mak 4 Akun-->
