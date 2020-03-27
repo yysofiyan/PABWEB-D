@@ -88,6 +88,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
+    <td align="center"><a href="#"><img
+        src="https://avatars1.githubusercontent.com/u/61410396?s=400&u=890569ac0bbd93741554ea3b3593f6dd1d16bd92&v=4"
+        width="100px;" alt="" /><br /><sub><b>Hilal Hamdi 🥇</b></sub></a><br /><a href="https://github.com/girierlangga12/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/girierlangga12" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris ke 3 Max 4 Akun-->
