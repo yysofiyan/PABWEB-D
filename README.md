@@ -95,7 +95,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-    
+ <td align="center"><a href="#"><img
+        src="https://avatars3.githubusercontent.com/u/61590232?s=460&v=4"
+        width="100px;" alt="" /><br /><sub><b>Siti Wihdah Sururoh</b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/Wihdah10/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
   </tr>
     <!-- Baris Ke 4 Mak 4 Akun-->
   <tr>
