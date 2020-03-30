@@ -97,7 +97,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         width="100px;" alt="" /><br /><sub><b>Widi Priansyah</b></sub></a><br /><a href="https://github.com/Widi-priansyah" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Widi-priansyah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
 =======
->>>>>>> aee4bf644878750f374ba08a4c022006181c55b0
+
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
