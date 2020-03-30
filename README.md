@@ -88,13 +88,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410101?s=460&u=a69613356637b79d5c15a36ba38c58986773825a&v=4"
         width="100px;" alt="" /><br /><sub><b>Adinda Noer Khoeruddin 🥇</b></sub></a><br /><a href="https://github.com/AdindaNoerKhoeruddin" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/AdindaNoerKhoeruddin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-        <td align="center"><a href="#"><img
+<td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410396?s=400&u=890569ac0bbd93741554ea3b3593f6dd1d16bd92&v=4"
-        width="100px;" alt="" /><br /><sub><b>Giri Erlangga Arta Praja</b></sub></a><br /><a href="https://github.com/girierlangga12/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/girierlangga12" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
- <td align="center"><a href="#"><img
+        width="100px;" alt="" /><br /><sub><b>Giri Erlangga Arta Praja</b></sub></a><br /><a href="https://github.com/girierlangga12/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/girierlangga12" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td> 
+<td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61415613?s=60&u=ad85ec47ad7e9236e061755adfa8239ce67f6efa&v=4"
         width="100px;" alt="" /><br /><sub><b>Widi Priansyah</b></sub></a><br /><a href="https://github.com/Widi-priansyah/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Widi-priansyah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
