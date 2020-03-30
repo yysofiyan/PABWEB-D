@@ -89,11 +89,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         src="https://avatars1.githubusercontent.com/u/61410101?s=460&u=a69613356637b79d5c15a36ba38c58986773825a&v=4"
         width="100px;" alt="" /><br /><sub><b>Adinda Noer Khoeruddin </b></sub></a><br /><a href="https://github.com/AdindaNoerKhoeruddin" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/AdindaNoerKhoeruddin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
-
-<td align="center"><a href="#"><img
-        src="https://avatars3.githubusercontent.com/u/61415613?s=460&u=ad85ec47ad7e9236e061755adfa8239ce67f6efa&v=4"
-        width="100px;" alt="" /><br /><sub><b>Widi Priansyah </b></sub></a><br /><a href="https://github.com/Widi-priansyah" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Widi-priansyah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  
   </tr>
     <tr>
     <!-- Baris ke 3 Max 7 Akun-->
