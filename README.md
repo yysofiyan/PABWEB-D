@@ -35,7 +35,7 @@
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | _Gunakan 💌 Kampus_
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
-4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-D/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf>) 📥
+4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20PHP7) 📥
 5. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
 6. [Modul Praktikum Laravel](#)
 
@@ -103,12 +103,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         width="100px;" alt="" /><br /><sub><b>Siti Wihdah Sururoh 🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/Wihdah10/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
-  </tr>
-    <!-- Baris Ke 4 Mak 5 Akun-->
-  <tr>
-    <!-- Baris Ke 5 Mak 5 Akun-->
-  </tr>
-  <tr>
 
   </tr>
 </table>
