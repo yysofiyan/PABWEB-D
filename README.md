@@ -112,6 +112,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         src="https://avatars0.githubusercontent.com/u/61957817?s=460&u=a9a98250e819aea28df310198179e43a0a1ad4e8&v=4"
         width="100px;" alt="" /><br /><sub><b>Heri perdiayansah</b></sub></a><br /><a href="https://github.com/herper120700" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/herper120700" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
+  <tr>
+  <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61534318?s=400&v=4"      width="100px;" alt=""/><br /><sub><b>Rifqi Faturohman Nursamsi</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 </table>
 
 <!-- markdownlint-enable -->
