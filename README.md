@@ -108,6 +108,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         width="100px;" alt="" /><br /><sub><b>Ramdaniel Arya Suantadiredja 🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/ramdanielarya/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
+  <td align="center"><a href="#"><img
+        src="https://avatars3.githubusercontent.com/u/61677478?s=400&u=9092a8fac0a359c0ed89981878e1f0d40de55b60&v=4"
+        width="100px;" alt="" /><br /><sub><b>Wira Bhakti Kencana 🥇</b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/wirabhaktik/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
   </tr>
     <!-- Baris Ke 4 Mak 5 Akun-->
   <tr>
