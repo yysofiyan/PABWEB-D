@@ -61,8 +61,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a
     href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3"
-          width="100px;" alt="" /><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
+          src="https://avatars2.githubusercontent.com/u/61648995?s=400&u=6cb2f3d8215ac762557c87ef1c6325c45f70ab65&v=4"
+          width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <!-- Baris Pertama -->
