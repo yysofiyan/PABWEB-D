@@ -1,0 +1,12 @@
+#BIODATA 
+
+Nama   : Edwar Anas
+NIM    : A2.1800043
+Matkul : Pemrograman Aplikasi Berbasis Web
+Kelas  : TI-IVD
+Prodi  : Teknik Informatika (S1)
+Kampus : STMIK Sumedang
+
+GOALS  : Mampu memperoleh ilmu dan menambah skill programming
+
+#STMIK_For-A-Better-Future
