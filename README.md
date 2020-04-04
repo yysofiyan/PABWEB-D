@@ -111,6 +111,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
  <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61957817?s=460&u=a9a98250e819aea28df310198179e43a0a1ad4e8&v=4"
         width="100px;" alt="" /><br /><sub><b>Heri perdiayansah</b></sub></a><br /><a href="https://github.com/herper120700" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/herper120700" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  <td align="center"><a href="#"><img 
+      src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
