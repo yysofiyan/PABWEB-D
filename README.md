@@ -64,7 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61415528?s=460&v=4" width="100px;"
-        alt="" /><br /><sub><b>Bagas Pardana Ilham 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#"
+        alt="" /><br /><sub><b>Bagas Pardana Ilham 🥇🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#"
         title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars2.githubusercontent.com/u/24666410?s=460&u=e224b3664f6fbb58adf2f4cc46238c298d6dde14&v=4"
@@ -111,7 +111,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Talks">📢</a></td>
    <td align="center"><a href="#"><img
         src="https://avatars2.githubusercontent.com/u/61648995?s=400&u=6cb2f3d8215ac762557c87ef1c6325c45f70ab65&v=4"
-        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah 🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
  <td align="center"><a href="#"><img
@@ -121,7 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   
-  <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   
 </table>
 
