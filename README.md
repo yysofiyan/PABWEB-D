@@ -72,7 +72,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410277?s=460&v=4"
-        width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada 🥇</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada 🥇</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a 
+        href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
   <!-- Baris Pertama -->
@@ -107,6 +108,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         src="https://avatars0.githubusercontent.com/u/61642638?s=460&u=4aba326014c403f7adababdc12c6c3e924b00524&v=4"
         width="100px;" alt="" /><br /><sub><b>Ramdaniel Arya Suantadiredja 🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/ramdanielarya/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
+   <td align="center"><a href="#"><img
+        src="https://avatars2.githubusercontent.com/u/61648995?s=400&u=6cb2f3d8215ac762557c87ef1c6325c45f70ab65&v=4"
+        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah 🥇</b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
  <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61957817?s=460&u=a9a98250e819aea28df310198179e43a0a1ad4e8&v=4"
