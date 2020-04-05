@@ -1,4 +1,4 @@
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````<?php
+<?php
 require_once "config/database.php";
 ?>
 
@@ -52,8 +52,9 @@ include "form_ubah.php";
 <div class="container-fluid">
 <footer class="pt-4 my-md-4 pt-md-3 border-top">
 <div class="row">
-<div class="col-12 col-md center"><a>Miranti Agisna Nurfatimah ❤</a>
-<div class="col-12 col-md center"> &copy; 2020 - <a class="text-info" href="https://stmik-sumedang.ac.id/">  STMIK Sumedang</a>
+<div class="col-12 col-md center"><a>Miranti Agisna Nurfatimah ❤</a> &copy; 2020 - <a class="text-info" href="https://stmik-sumedang.ac.id/">  STMIK Sumedang</a>
+</div>
+</div>
 </footer>
 </div>
 
@@ -62,11 +63,9 @@ include "form_ubah.php";
 <script type="text/javascript" src="assets/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap-4.1.3/js/bootstrap.min.js"></script>
 <!-- fontawesome js -->
-<script type="text/javascript" src="assets/plugins/fontawesome-free-5.4.1-web/js/
-all.min.js"></script>
+<script type="text/javascript" src="assets/plugins/fontawesome-free-5.4.2-web/js/all.min.js"></script>
 <!-- datepicker js -->
-<script type="text/javascript" src="assets/plugins/datepicker/js/’
-bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="assets/plugins/datepicker/js/bootstrap-datepicker.min.js"></script>
 
 <script type="text/javascript">
 // initiate plugin ============================================================================
@@ -168,6 +167,8 @@ if (fileInput.files && fileInput.files[0]) { var reader = new FileReader(); read
 document.getElementById('imagePreview').innerHTML = '<img class="foto-preview" src="'+e.target.result+'"/>';
 };
 reader.readAsDataURL(fileInput.files[0]);
+}
+}
 }
 </script>
 </body> 
