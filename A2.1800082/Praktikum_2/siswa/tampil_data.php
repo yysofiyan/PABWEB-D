@@ -72,7 +72,7 @@ elseif ($_GET['alert'] == 4) {
 	<input type="text" class="form-control" name="cari" placeholder="Cari NIS atau Nama Siswa" value="<?php echo $cari; ?>">
 	</div>
 	<!-- tombol cari -->
-	<div class="col-8">
+	<div class="col-7">
 		<button type="submit" class="btn btn-info">Cari</button> 
         	</div>
 	<!-- tombol tambah data -->
@@ -81,6 +81,7 @@ elseif ($_GET['alert'] == 4) {
 	</div>
 	</div>
 	</form>
+	<hr>
     <!-- Tabel siswa untuk menampilkan data siswa dari database --> 
     	<table class="table table-striped table-bordered">
 	<thead>
@@ -145,8 +146,7 @@ or die('Ada kesalahan pada query siswa: '.mysqli_error($db));
 	<td width="45"><img class="foto-thumbnail" src='foto/<?php echo $data['foto']; ?>' alt="Foto Siswa"></td>
 	<td width="80" class="center"><?php echo $data['nis']; ?></td> 
 		<td width="180"><?php echo $data['nama']; ?></td>
-	<td width="180"><?php echo $data['tempat_lahir']; ?> 
-	<?php echo date('d-m-Y', strtotime($data['tanggal_lahir'])); ?></td>
+	<td width="180"><?php echo $data['tempat_lahir']; ?>, <?php echo date('d-m-Y', strtotime($data['tanggal_lahir'])); ?></td>
 	<td width="120"><?php echo $data['jenis_kelamin']; ?></td> 
 	<td width="100"><?php echo $data['agama']; ?></td>
 	<td width="180"><?php echo $data['alamat']; ?></td>
