@@ -122,9 +122,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  
-    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61650761?s=400&u=d5bf8ddaa785b3b505bac8b0a325de9c93c7fe46&v=4" width="100px;" alt=""/><br /><sub><b>Hilman Wahyudin< /b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  
 </table>
 
 <!-- markdownlint-enable -->
