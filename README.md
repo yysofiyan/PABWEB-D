@@ -37,7 +37,7 @@
 3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
 4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20PHP7) 📥
 5. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
-6. [Modul Praktikum Laravel](#)
+6. [Modul Praktikum Laravel](##)
 
 ## Referensi
 
