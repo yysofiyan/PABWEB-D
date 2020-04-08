@@ -1,12 +1,8 @@
 <?php
-// jika tombol ubah diklik
 if (isset($_GET['nis'])) {
-	// ambil data get dari form
 	$nis = $_GET['nis'];
-	// perintah query untuk menampilkan data dari tabel siswa berdasarkan nis
 	$query = mysqli_query($db, "SELECT * FROM tbl_siswa WHERE nis='$nis'") or die('Query Error : '.mysqli_error($db));
 	$data = mysqli_fetch_assoc($query);
-	// buat variabel untuk menampung data
 	$nis			= $data['nis'];
 	$nama			= $data['nama'];
 	$tempat_lahir	= $data['tempat_lahir'];
@@ -17,7 +13,6 @@ if (isset($_GET['nis'])) {
 	$no_hp			= $data['no_hp'];
 	$foto			= $data['foto'];
 }
-//tutup koneksi
 mysqli_close($db);
 ?>
 
@@ -29,7 +24,6 @@ mysqli_close($db);
 
 		<div class="card">
 			<div class="card-body">
-				<!-- form ubah data siswa -->
 				<form class="needs-validation" action="proses_ubah.php" method="post" enctype="multipart/form-data" novalidate>
 					<div class="row">
 						<div class="col">

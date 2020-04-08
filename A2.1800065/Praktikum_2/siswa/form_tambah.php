@@ -5,7 +5,7 @@
 		</div>
 		<div class="card">
 			<div class="card-body">
-				<!-- form tabah data siswa -->
+		
 				<form class="needs-validation" action="proses_simpan.php" method="post" enctype="multipart/form-data" novalidate>
 				<div class="row">
 					<div class="col">

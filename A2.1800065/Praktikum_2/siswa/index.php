@@ -1,29 +1,24 @@
 <?php
-//panggil file database.php untuk koneksi database
+
 require_once "config/database.php";
 ?>
 
-<!doctype html>			<!-- HTML 5 Tag -->
-<html lang="en">		<!-- tag pembuka HTML -->
+<!doctype html>			
 	<head>
-		<!-- required meta tags -->
+		
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="Aplikasi Pengelolaan Data Siswa dengan PHP 7,MySQLi, dan Bootstrap 4"> 
 		<meta name="keyword" content="Aplikasi Pengelolaan Data Siswa dengan PHP 7,MySQLi, dan Bootstrap 4"> 
 		<meta name="author" content="indra Styawantoro">
 
-<!-- favicon -->
+
 <link rel="shortcut icon" href="assets/img/favicon.png">
-<!-- Bootstrap CSS -->
 <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap-4.1.3/css/bootstrap.min.css">
-<!-- datepicker CSS -->
 <link rel="stylesheet" type="text/css" href="assets/plugins/datepicker/css/datepicker.min.css">
-<!-- Font Awesome CSS -->
 <link rel="stylesheet" type="text/css" href="assets/fontawesome-free-5.4.2-web/css/all.min.css">
-<!-- Custom CSS -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-<!-- title -->
+
 <tile></tile>
 </head>
 <body>
@@ -35,16 +30,15 @@ require_once "config/database.php";
 
 	<div class="container-fluid">
 <?php
-//fungsi pemanggilan halaman
-//jika page = koosng atau saat aplikasi pertama dijalankan, tampilkan halaman tampil_data.php
+
 if (empty($_GET["page"])) {
 	include "tampil_data.php";
 }
-//jika page = tambah, maka tampilkan halaman form_tambah_data.php
+
 elseif ($_GET["page"]== 'tambah') {
 	include "form_tambah.php";
 }
-//jika page= ubah, maka tampilkan halaman form_ubah_data.php
+
 elseif ($_GET["page"]== 'ubah') {
 	include "form_ubah.php";
 }
@@ -61,18 +55,16 @@ elseif ($_GET["page"]== 'ubah') {
 	</footer>
 </div>
 
-<!-- Pemanggilan Library jQuery --> 
-<!-- pertama jQuery, kemudian Bootstrap js -->
+
 <script type="text/javascript" src="assets/js/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap-4.1.3/js/bootstrap.min.js"></script>
-<!-- fontawesom js -->
+
 <script type="text/javascript" src="assets/plugins/fontawesome-free-5.4.2-web/js/all.min.js"></script>
-<!-- datepicker js-->
+
 <script type="text/javascript" src="assets/plugins/datepicker/js/bootstrap-datepicker.min.js"></script>
 
 <script type="text/javascript">
-	// Initiate plugin =============================
-	// ---------------------------------------------
+
 	$(document).ready(function(){
 	$('.date-picker').datepicker({
 		autoclose: true,
@@ -80,17 +72,13 @@ elseif ($_GET["page"]== 'ubah') {
 	});
 	});	
 
-// ==================================================
 
-// Validasi Form tambah dan form ubah ===============
-//---------------------------------------------------
-// validasi form input tidak boleh kosong
 	(function() {
 	  'use strict';
 	window.addEventListener('load',  function()  {
-	   // Fetch all the forms we want to apply custom Bootstrap validation styles to
+	   
 	var forms = document.getElementsByClassName('needs-validation');
-	   // Loop over them and prevent submission
+	 
 	var validation = Array.prototype.filter.call(forms, function(form) {
 	  form.addEventListener('submit', function(event) {
 		if (form.checkValidity() === false) {
@@ -103,7 +91,7 @@ elseif ($_GET["page"]== 'ubah') {
 }, false);
 })();
 
-// validasi karakter yang boleh diinputkan pada form
+
 function getkey(e){
 	if (window.event)
 		return window.event.keycode;
@@ -121,11 +109,10 @@ function goodchars(e, goods, field) {
 	keychar = String.fromCharCode(key);
 	keychar = keychar.toLowerCase();
 	goods 	= goods.toLowerCase();
-
-	// checks goodkeys
+ // checks goodkeys
 	if(goods.indexOf(keychar) != -1)
 		return true;
-	//control keys
+
 	if ( key==null || key==0 || key==8 || key==9 || key==27)
 		return true;
 
@@ -138,32 +125,32 @@ function goodchars(e, goods, field) {
 			field.form.elements[i].focus();
 			return false;
 		};
-		// else retur false
+	
 	}
 
-	// validasi image dan preview image sebelum upload
+	
 	function validasiFile() {
 		var fileInput		= document.getElementById('foto');
 		var filePath		= fileInput.value;
 		var FileSize		=$('foto')[0].files[0].size;
-		//tentukan extension yang diperbolehkan
+		
 		var alloweExtensions = /(\.jpg\.jpeg\.png)$/i;
-		//jika tipe file yang diupload tidak sesuai dengan allowedExtensions, tampilkan pesan ;
+		
 		if(!allowedExtensions.exec(filePath)) {
 			alert('Extension file foto tidak sesuai. Harap upload extension foto yang memiliki tipe *.jpg atau *png');
 			fileInput.value = '';
 			document.getElementById('imagePreview').innerHTML= '<img class="foto-preview" src="foto/default.png"/>';
 			return false;
 		}
-		//jika ukuran file yang di upload lebih 1 mb
+		
 		else if (fileSize >= 1000000) {
 			alert('Ukuran file terlalu besar. Harap gunakan foto yang memiliki ukuran maksimal 1Mb.');
 			fileInput.value = '';
 			document.getElementById('imagePreview').innerHTML = '<img class="foto-preview" src="foto/default.png"/>';
 		}
-		//selain itu 
+		
 		else {
-			//image preview
+			
 			if (fileInput.files && fileInput.files[0]) {
 				var reader = new FileReader();
 				reader.onload = function(e) {
@@ -172,7 +159,7 @@ function goodchars(e, goods, field) {
 				reader.readAsDataURL(fileInput.files[0]);
 			}
 		}}
-		//================================================//
+		
 	</script>
 </body>
 </html>			
