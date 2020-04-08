@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 07, 2020 at 07:37 AM
+-- Generation Time: Apr 08, 2020 at 04:21 PM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.3
 
@@ -39,13 +39,6 @@ CREATE TABLE `tbl_siswa` (
   `no_hp` varchar(13) NOT NULL,
   `foto` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `tbl_siswa`
---
-
-INSERT INTO `tbl_siswa` (`nis`, `nama`, `tempat_lahir`, `tanggal_lahir`, `jenis_kelamin`, `agama`, `alamat`, `no_hp`, `foto`) VALUES
-('54564', 'hilman', 'SUBANG', '2013-04-20', 'laki-laki', 'Islam', 'sukamantri', '0822016021206', 'foto.jpeg');
 
 --
 -- Indexes for dumped tables
