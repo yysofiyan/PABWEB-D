@@ -1,3 +1,4 @@
+
 <?php
 
 require_once "config/database.php";
@@ -16,7 +17,7 @@ require_once "config/database.php";
 <link rel="shortcut icon" href="assets/img/favicon.png">
 <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap-4.1.3/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="assets/plugins/datepicker/css/datepicker.min.css">
-<link rel="stylesheet" type="text/css" href="assets/fontawesome-free-5.4.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="assets/plugins/fontawesome-free-5.4.2-web/css/all.min.css">
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 <tile></tile>
