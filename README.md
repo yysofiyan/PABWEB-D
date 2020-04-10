@@ -125,15 +125,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61650761?s=400&u=041fe17dcef66e325d3585dd9936d6871b83e4df&v=4" width="100px;" alt=""/><br /><sub><b>Hilman Wahyudin🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/62422728?s=460&u=aaebc8054b44f3a585307f3bc87068a44a621641&v=4" width="100px;" alt=""/><br /><sub><b>Sindi Fazri Awaludin🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 712ad8b0b4e245bb7cfd8c0fe582e852590ae9d1
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677748?s=460&u=cd7f283b8998caaa427fc9964f5f65dc79b2a253&v=4" width="100px;" alt=""/><br /><sub><b>Ari Risnandi Naufal🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61534553?s=460&u=052310d14cd681173f4e08dff5e0a64b9baee5c1&v=4" width="100px;" alt=""/><br /><sub><b>Agus Maulana Mubaroq<br>🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     </tr>
     <tr>
     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61967978?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Galih Ramanda🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     </tr>
+<<<<<<< HEAD
 =======
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677748?s=460&u=cd7f283b8998caaa427fc9964f5f65dc79b2a253&v=4" width="100px;" alt=""/><br /><sub><b>Ari Risnandi Naufal</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 >>>>>>> parent of ae04ece... update (#1)
+=======
+>>>>>>> 712ad8b0b4e245bb7cfd8c0fe582e852590ae9d1
 </table>
 
 <!-- markdownlint-enable -->
