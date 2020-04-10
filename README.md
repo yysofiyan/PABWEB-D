@@ -128,7 +128,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61534553?s=460&u=052310d14cd681173f4e08dff5e0a64b9baee5c1&v=4" width="100px;" alt=""/><br /><sub><b>Agus Maulana Mubaroq<br>🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     </tr>
     <tr>
-    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61967978?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Galih Ramanda<br>🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61967978?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Galih Ramanda🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     </tr>
 </table>
 
