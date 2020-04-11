@@ -115,9 +115,8 @@ mysqli_close($db);
 					<div class="col">
 						<div class="form-group col-md-12">
 							<label>Foto Siswa</label>
-							<input type="file" class="form-control-file mb-3" id="foto" name="foto" onchange="return validasiFile()" autocomplete="off" value="<?php echo $foto; ?>" required>
+							<input type="file" class="form-control-file mb-3" id="foto" name="foto" onchange="return validasiFile()" autocomplete="off" value="<?php echo $foto; ?>">
 							<div id="imagePreview"><img class="foto-preview" src="foto/<?php echo $foto; ?>"/></div>
-							<div class="invalid-feedback">Foto Siswa tidak boleh kosong </div>
 						</div>
 					</div>
 				</div>
