@@ -72,7 +72,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="#" title="Documentation">📖</a> <a href="https://github.com/khalidinsan" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410277?s=460&v=4"
-        width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada 🥇</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a 
+        width="100px;" alt="" /><br /><sub><b>Anissa Hakim Mulyada<br>🥇🥇</b></sub></a><br /><a href="https://github.com/anissaHM" title="Link Repo">🔗</a> <a 
         href="#" title="Documentation">📖</a> <a href="https://github.com/anissaHM" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
@@ -131,7 +131,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61967978?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Galih Ramanda🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars3.githubusercontent.com/u/61677478?s=400&u=9092a8fac0a359c0ed89981878e1f0d40de55b60&v=4"
-        width="100px;" alt="" /><br /><sub><b>Wira Bhakti K 🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Wira Bhakti K<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/wirabhaktik/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     </tr>
