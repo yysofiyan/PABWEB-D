@@ -135,6 +135,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Link Repo">🔗</a> <a href="https://github.com/wirabhaktik/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     </tr>
+
 </table>
 
 <!-- markdownlint-enable -->
