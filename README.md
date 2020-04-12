@@ -37,7 +37,7 @@
 3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
 4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20PHP7) 📥
 5. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-D/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
-6. [Modul Praktikum Laravel](#)
+6. [Modul Praktikum Laravel](##)
 
 ## Referensi
 
@@ -60,7 +60,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars3.githubusercontent.com/u/61414949?s=400&u=575cf6487a57cbdec39cbb5698cac56493aacb0d&v=4"
-        width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldi 🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Muhamad Iqbal Rivaldi<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61415528?s=460&v=4" width="100px;"
@@ -83,7 +83,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris 2 Max 4 Akun -->
    <td align="center"><a href="#"><img
       src="https://avatars2.githubusercontent.com/u/61412017?s=460&u=8beea5cd2af713c594244a4958b981e4745e9fb4&v=4"
-      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F 🥇</b></sub></a><br /><a href="https://github.com/marsyad/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+      width="100px;" alt="" /><br /><sub><b>Muhammad Arsyad F<br>🥇🥇</b></sub></a><br /><a href="https://github.com/marsyad/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
          <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61410686?s=400&u=610f83518ec2ec4100c348496bdbe951721125da&v=4"
         width="100px;" alt="" /><br /><sub><b>Hilal Hamdi 🥇</b></sub></a><br /><a href="https://github.com/Hilal-Hamdi" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Hilal-Hamdi" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -120,10 +120,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <td align="center"><a href="#"><img 
       src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
-  
+  <tr>
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
-  
+    <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61650761?s=400&u=041fe17dcef66e325d3585dd9936d6871b83e4df&v=4" width="100px;" alt=""/><br /><sub><b>Hilman Wahyudin🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/62422728?s=460&u=aaebc8054b44f3a585307f3bc87068a44a621641&v=4" width="100px;" alt=""/><br /><sub><b>Sindi Fazri Awaludin🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677748?s=460&u=cd7f283b8998caaa427fc9964f5f65dc79b2a253&v=4" width="100px;" alt=""/><br /><sub><b>Ari Risnandi Naufal🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61534553?s=460&u=052310d14cd681173f4e08dff5e0a64b9baee5c1&v=4" width="100px;" alt=""/><br /><sub><b>Agus Maulana Mubaroq<br>🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    </tr>
+    <tr>
+    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61967978?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Galih Ramanda🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img
+        src="https://avatars3.githubusercontent.com/u/61677478?s=400&u=9092a8fac0a359c0ed89981878e1f0d40de55b60&v=4"
+        width="100px;" alt="" /><br /><sub><b>Wira Bhakti K 🥇</b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/wirabhaktik/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
+    </tr>
 </table>
 
 <!-- markdownlint-enable -->
