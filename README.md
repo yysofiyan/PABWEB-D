@@ -111,7 +111,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Talks">📢</a></td>
    <td align="center"><a href="#"><img
         src="https://avatars2.githubusercontent.com/u/61648995?s=400&u=6cb2f3d8215ac762557c87ef1c6325c45f70ab65&v=4"
-        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
  <td align="center"><a href="#"><img
