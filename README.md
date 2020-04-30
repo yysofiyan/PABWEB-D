@@ -92,7 +92,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         width="100px;" alt="" /><br /><sub><b>Adinda Noer Khoeruddin<br>🥇🥇</b></sub></a><br /><a href="https://github.com/AdindaNoerKhoeruddin" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/AdindaNoerKhoeruddin" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 <td align="center"><a href="#"><img
         src="https://avatars1.githubusercontent.com/u/61410396?s=400&u=890569ac0bbd93741554ea3b3593f6dd1d16bd92&v=4"
-        width="100px;" alt="" /><br /><sub><b>Giri Erlangga Arta Praja 🥇</b></sub></a><br /><a href="https://github.com/girierlangga12/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/girierlangga12" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td> 
+        width="100px;" alt="" /><br /><sub><b>Giri Erlangga Arta Praja<br>🥇🥇</b></sub></a><br /><a href="https://github.com/girierlangga12/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/girierlangga12" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td> 
 <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61415613?s=60&u=ad85ec47ad7e9236e061755adfa8239ce67f6efa&v=4"
         width="100px;" alt="" /><br /><sub><b>Widi Priansyah 🥇</b></sub></a><br /><a href="https://github.com/Widi-priansyah/PABWEB-D" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/Widi-priansyah" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -101,22 +101,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <!-- Baris ke 3 Max 5 Akun-->
  <td align="center"><a href="#"><img
         src="https://avatars3.githubusercontent.com/u/61590232?s=460&v=4"
-        width="100px;" alt="" /><br /><sub><b>Siti Wihdah Sururoh 🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Siti Wihdah Sururoh<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/Wihdah10/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
  <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61642638?s=460&u=4aba326014c403f7adababdc12c6c3e924b00524&v=4"
-        width="100px;" alt="" /><br /><sub><b>Ramdaniel Arya Suantadiredja 🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Ramdaniel Arya Suantadiredja<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/ramdanielarya/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
    <td align="center"><a href="#"><img
         src="https://avatars2.githubusercontent.com/u/61648995?s=400&u=6cb2f3d8215ac762557c87ef1c6325c45f70ab65&v=4"
-        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>Miranti Agisna Nurfatimah<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
  <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61957817?s=460&u=a9a98250e819aea28df310198179e43a0a1ad4e8&v=4"
-        width="100px;" alt="" /><br /><sub><b>Heri perdiayansah</b></sub></a><br /><a href="https://github.com/herper120700" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/herper120700" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+        width="100px;" alt="" /><br /><sub><b>Heri perdiayansah🥇</b></sub></a><br /><a href="https://github.com/herper120700" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/herper120700" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   <td align="center"><a href="#"><img 
       src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
@@ -133,6 +133,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         src="https://avatars3.githubusercontent.com/u/61677478?s=400&u=9092a8fac0a359c0ed89981878e1f0d40de55b60&v=4"
         width="100px;" alt="" /><br /><sub><b>Wira Bhakti K<br>🥇🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/wirabhaktik/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img
+        src="https://avatars0.githubusercontent.com/u/61679169?s=460&u=e856037fc7c6a5f8250989a8fec6a7e125acb641&v=4"
+        width="100px;" alt="" /><br /><sub><b>AzisNuromdonaM<br>🥇🥇</b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/AzisNuromdonaM/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     </tr>
 </table>
