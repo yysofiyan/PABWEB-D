@@ -118,7 +118,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         src="https://avatars0.githubusercontent.com/u/61957817?s=460&u=a9a98250e819aea28df310198179e43a0a1ad4e8&v=4"
         width="100px;" alt="" /><br /><sub><b>Heri perdiayansah<br>🥇🥇</b></sub></a><br /><a href="https://github.com/herper120700" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="https://github.com/herper120700" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   <td align="center"><a href="#"><img 
-      src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+      src="https://avatars3.githubusercontent.com/u/61964282?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Alif Ramadhan Arya<br>🥇🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61677917?s=400&u=bee7d35eb310d00c7f3a37534a63c30b65c51cf4&v=4" width="100px;" alt=""/><br /><sub><b>Hadi Alisuwarna🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
@@ -136,7 +136,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         title="Talks">📢</a></td>
     <td align="center"><a href="#"><img
         src="https://avatars0.githubusercontent.com/u/61679169?s=460&u=e856037fc7c6a5f8250989a8fec6a7e125acb641&v=4"
-        width="100px;" alt="" /><br /><sub><b>AzisNuromdonaM<br>🥇🥇</b></sub></a><br /><a href="#"
+        width="100px;" alt="" /><br /><sub><b>AzisNuromdonaM<br>🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/AzisNuromdonaM/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
     </tr>
