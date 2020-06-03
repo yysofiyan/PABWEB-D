@@ -144,6 +144,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
         width="100px;" alt="" /><br /><sub><b>Dicky Karyana<br>🥇</b></sub></a><br /><a href="#"
         title="Link Repo">🔗</a> <a href="https://github.com/DickyKaryana/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
         title="Talks">📢</a></td>
+        <td align="center"><a href="#"><img
+        src="https://avatars2.githubusercontent.com/u/62799283?s=400&v=4"
+        width="100px;" alt="" /><br /><sub><b>Rizal Jalaludin<br></b></sub></a><br /><a href="#"
+        title="Link Repo">🔗</a> <a href="https://github.com/RizalJalaludin12/PABWEB-D" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
+        title="Talks">📢</a></td>
     </tr>
 </table>
 
