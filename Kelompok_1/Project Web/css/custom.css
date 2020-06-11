@@ -1,0 +1,41 @@
+body.reg {
+	background: #33b35a;
+}
+.reg .container {
+	background: #fff;
+	width: 30%;
+	margin-top: 50px;
+	padding: 0;
+}
+.reg .container h1 {
+	background: #393836;
+	color: #fff;
+	padding: 30px;
+}
+.reg .container form {
+	margin-top: 20px;
+	padding: 0 20px 20px 20px;
+}
+.reg .container form label, .reg .container form select, .reg .container form input, .reg .container form small { display: block; }
+.reg .container form button { margin-top: 20px; }
+.reg .container form select, .reg .container form input, form.regi select {
+	background-color: #393836;
+	border: none;
+	padding: 10px;
+	color: #fff;
+}
+.reg .container p { 
+	padding: 10px; 
+	background-color: #393836;
+	color: #fff; 
+}
+form.inline-form button { 
+	display: block;
+	margin-top: 10px; 
+}
+.fotoprofil { 
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px; 
+}
+.card { overflow: auto; }
