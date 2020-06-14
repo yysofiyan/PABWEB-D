@@ -1,12 +1,13 @@
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Hello Babonzuma</title>
+	<title>Hello Mardira</title>
 </head>
 <body>
-    <h3>Hello Babonzuma</h3>
-    <?php
-    if (isset($mvc)){
-        echo $mvc;
-    } ?>
+	<h3>Hello Mardira</h3>
+	<?php 
+	if (isset($mvc)) {
+		echo $mvc;
+	} ?>
 </body>
 </html>
